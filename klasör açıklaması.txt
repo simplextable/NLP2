@@ -1,2 +1,2 @@
 yaratım tarihi: 05.06.20
-açıklama: bu klasörde faik keskin hocanın yaptığı nlp örneğini tekrarladık.
+description: in this example we repeated prof. faik keskin's nlp problem
